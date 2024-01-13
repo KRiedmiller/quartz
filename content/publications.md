@@ -1,0 +1,23 @@
+---
+title: My Publications
+tags:
+  - evergreen
+---
+- **Substituting density functional theory in reaction barrier calculations for hydrogen atom transfer in proteins**
+	- Kai Riedmiller; Patrick Reiser; Elizaveta Bobkova; Kiril Maltsev; Ganna Gryn'ova; Pascal Friederich; Frauke Gräter
+	- [10.26434/chemrxiv-2023-7hntk-v2](https://doi.org/10.26434/chemrxiv-2023-7hntk-v2)
+- **Collagen breaks at weak sacrificial bonds taming its mechanoradicals**
+	- Benedikt Rennekamp; Christoph Karfusehr; Markus Kurth; Aysecan Ünal; Debora Monego; Kai Riedmiller; Ganna Gryn’ova; David M. Hudson; Frauke Gräter
+	- [Nature Communications](https://doi.org/10.1038/s41467-023-37726-z)
+- **DOPA Residues Endow Collagen with Radical Scavenging Capacity**
+	- Markus Kurth; Uladzimir Barayeu; Hassan Gharibi; Andrei Kuzhelev; Kai Riedmiller; Jennifer Zilke; Kasimir Noack; Vasyl Denysenkov; Reinhard Kappl; Thomas F. Prisner et al.
+	- [Angewandte Chemie International Edition](https://doi.org/10.1002/anie.202216610)
+- **Bond dissociation energies of X–H bonds in proteins**
+	- Wojtek Treyde; Kai Riedmiller; Frauke Gräter 
+	- [RSC Advances](https://doi.org/10.1039/d2ra04002f)
+- **Guanidine-II aptamer conformations and ligand binding modes through the lens of molecular simulation**
+	- Jakob Steuer; Oleksandra Kukharenko; Kai Riedmiller; Jörg S Hartig; Christine Peter
+	- [Nucleic Acids Research](https://doi.org/10.1093/nar/gkab592)
+- **Remote Perfluoroalkyl Substituents are Key to Living Aqueous Ethylene Polymerization**
+	- Manuel Schnitte; Janine S. Scholliers; Kai Riedmiller; Stefan Mecking
+	- [Angewandte Chemie International Edition](https://doi.org/10.1002/anie.201913117)
