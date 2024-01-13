@@ -11,17 +11,24 @@ export default ((opts?: Options) => {
     const year = new Date().getFullYear()
     const links = opts?.links ?? []
     return (
-      <footer class={`${displayClass ?? ""}`}>
+      <footer>
         <hr />
-        <p>
-          Created with <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a>, © {year}
-        </p>
         <ul>
-          {Object.entries(links).map(([text, link]) => (
-            <li>
-              <a href={link}>{text}</a>
-            </li>
-          ))}
+          <li>
+            Created with <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a>
+          </li>
+          <li>
+            {Object.entries(links).map(([text, link]) => (
+              <li>
+                <a href={link}>{text}</a>
+              </li>
+            ))}
+          </li>
+          <li>
+            <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+                CC BY 4.0 License
+            </a>
+          </li>
         </ul>
       </footer>
     )
