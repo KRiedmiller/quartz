@@ -10,7 +10,7 @@ tags:
 	- Benedikt Rennekamp; Christoph Karfusehr; Markus Kurth; Aysecan Ünal; Debora Monego; Kai Riedmiller; Ganna Gryn’ova; David M. Hudson; Frauke Gräter
 	- [Nature Communications](https://doi.org/10.1038/s41467-023-37726-z)
 - **DOPA Residues Endow Collagen with Radical Scavenging Capacity**
-	- Markus Kurth; Uladzimir Barayeu; Hassan Gharibi; Andrei Kuzhelev; Kai Riedmiller; Jennifer Zilke; Kasimir Noack; Vasyl Denysenkov; Reinhard Kappl; Thomas F. Prisner et al.
+	- Markus Kurth; Uladzimir Barayeu; Hassan Gharibi; Andrei Kuzhelev; Kai Riedmiller; Jennifer Zilke; Kasimir Noack; Vasyl Denysenkov; Reinhard Kappl; Thomas F. Prisner, Roman A. Zubarev, Tobias P. Dick, Frauke Gräter
 	- [Angewandte Chemie International Edition](https://doi.org/10.1002/anie.202216610)
 - **Bond dissociation energies of X–H bonds in proteins**
 	- Wojtek Treyde; Kai Riedmiller; Frauke Gräter 

@@ -3,11 +3,11 @@ title: Making quartz my own
 tags:
   - evergreen
 ---
-This web page is build using [quartz](https://quartz.jzhao.xyz/).
 
+This web page is build using [quartz](https://quartz.jzhao.xyz/).
 # Modifications
 
-asdfasdfasdf
+So far no big modifications, just added the last modified date to the header (inspired by [Chad's garden](https://www.chadly.net/)).
 
 # Automatic building
 
@@ -34,7 +34,4 @@ services:
 ```
 
 
-
-# Todo
-- Make fork
 
