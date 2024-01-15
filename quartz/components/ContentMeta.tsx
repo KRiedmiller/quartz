@@ -1,6 +1,7 @@
-import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import readingTime from "reading-time"
+import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import type { JSX } from "preact"
+
 import { format as formatDateFn, formatISO } from "date-fns"
 
 const TimeMeta = ({ value }: { value: Date }) => (

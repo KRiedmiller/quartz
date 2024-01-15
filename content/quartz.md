@@ -3,7 +3,6 @@ title: Making quartz my own
 tags:
   - evergreen
 ---
-
 This web page is build using [quartz](https://quartz.jzhao.xyz/).
 # Modifications
 
