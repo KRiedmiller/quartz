@@ -17,7 +17,7 @@ version: "3"
 services:
   quartz:
     # check for new version: https://fleet.linuxserver.io/image?name=lsiobase/alpine
-    image: lsiobase/alpine:3.19-version-8d9c604f
+    image: lsiobase/alpine:3.19
     container_name: quartz
     restart: unless-stopped
     environment:
@@ -27,7 +27,8 @@ services:
       - DOCKER_MODS=linuxserver/mods:universal-package-install
       - INSTALL_PACKAGES=bash|nodejs|npm|git|entr
       - ENTR_INOTIFY_WORKAROUND=False
-    command: bash -c 'cd quartz; while sleep 1; do find /quartz/content/ -name "*.md" | entr -snd "sleep 20; npx quartz build"; done'
+      - GIT_TOKEN=${GIT_TOKEN}
+    command: s6-setuidgid 1000:1000 /quartz/startup.sh
     volumes:
       - /mnt/appdata/quartz:/quartz:z
 ```

@@ -1,6 +1,6 @@
 import readingTime from "reading-time"
 import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
-import type { JSX } from "preact"
+import { JSX } from "preact"
 
 import { format as formatDateFn, formatISO } from "date-fns"
 
