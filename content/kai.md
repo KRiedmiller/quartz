@@ -15,6 +15,10 @@ I am Kai Riedmiller. By training, I am a theoretical chemist with a focus on mac
 
 ## Education
 
+PhD engineering sciences, University Heidelberg
+> Title: **Predicting Hydrogen Atom Transfer in Collagen**  
+> I worked on creating a machine learned model for predicting reactivity based on the 3D structure of a molecular system.
+
 Master of Science, Chemistry, University Konstanz
 
 Currently PhD candidate at the Heidelberg Institute for Theoretical Studies, HITS, in Heidelberg in the Molecular Biomechanics Group of Prof. Frauke Gräter.  

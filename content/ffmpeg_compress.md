@@ -5,6 +5,7 @@ tags:
   - video
   - snippets
   - ffmpeg
+date: 2024-06-07
 ---
 Lower crf -> higher quality, best between 18-24
 ```bash

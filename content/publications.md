@@ -6,6 +6,10 @@ date: 2024-01-08
 note: style is American Chemical Society
 ---
 
+- **Predicting Hydrogen Atom Transfer in Collagen**
+	- Riedmiller, K; Dissertation, 2024
+	- ![[single_chain_rad.webp|600]]
+	- https://doi.org/10.11588/heidok.00035153
 - **Substituting density functional theory in reaction barrier calculations for hydrogen atom transfer in proteins**
 	- Riedmiller, K.; Reiser, P.; Bobkova, E.; Maltsev, K.; Gryn’ova, G.; Friederich, P.; Gräter, F. Chem. Sci. 2024.
 	- [Chemical Science](https://doi.org/10.1039/d3sc03922f)
@@ -20,6 +24,7 @@ note: style is American Chemical Society
 - **DOPA Residues Endow Collagen with Radical Scavenging Capacity**
 	- Kurth, M.; Barayeu, U.; Gharibi, H.; Kuzhelev, A.; Riedmiller, K.; Zilke, J.; Noack, K.; Denysenkov, V.; Kappl, R.; Prisner, T. F.; Zubarev, R. A.; Dick, T. P.; Gräter, F. Angewandte Chemie International Edition 2023, 62 (24), e202216610.
 	- [Angewandte Chemie International Edition](https://doi.org/10.1002/anie.202216610)
+	- ![[dopa.png|400]]
 - **Bond dissociation energies of X–H bonds in proteins**
 	- Treyde, W.; Riedmiller, K.; Gräter, F. RSC Advances 2022, 12 (53), 34557–34564.
 	- [RSC Advances](https://doi.org/10.1039/d2ra04002f)

@@ -5,6 +5,7 @@ tags:
   - video
   - snippets
   - ffmpeg
+date: 2024-06-07
 ---
 Using `setpts`:
 ```bash
