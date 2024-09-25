@@ -13,6 +13,7 @@ const TimeMeta = ({ value }: { value: Date }) => (
 export default (() => {
   function ContentMetadata({ cfg, fileData }: QuartzComponentProps) {
     const text = fileData.text
+
     if (text) {
       const segments: JSX.Element[] = []
       const { text: timeTaken, words: _words } = readingTime(text)
