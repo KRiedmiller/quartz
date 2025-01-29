@@ -5,7 +5,13 @@ tags:
 date: 2024-01-08
 note: style is American Chemical Society
 ---
-
+* **Crash Testing Machine Learning Force Fields for Molecules, Materials, and Interfaces:**
+	* **Molecular Dynamics in the TEA Challenge 2023**
+	* **Model Analysis in the TEA Challenge 2023**
+	* Poltavsky, I.; Puleva, M.; Charkin-Gorbulin, A.; Fonseca, G. C.; Batatia, I.; Browning, N. J.; Müller, C.; Riedmiller, K.; Rupp, M.; Csanyi, G.; von Lilienfeld, O. A.; Müller, K.R.;  Tkatchenko, A.; et al., *preprint* 2024
+	* [Part 1: MD](https://doi.org/10.26434/chemrxiv-2024-jhm5l)
+	* [Part 2: Models](https://doi.org/10.26434/chemrxiv-2024-ctdm3)
+	* ![[peptide_render.webp|400]]
 - **Predicting Hydrogen Atom Transfer in Collagen**
 	- Riedmiller, K; Dissertation, 2024
 	- ![[single_chain_rad.webp|600]]

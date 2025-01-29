@@ -6,7 +6,6 @@ tags:
   - kitchen
   - german
 ---
- ![[karottenlachs.webp]]
 
 * 4 Karotten
 * 15 Tr Rauch

@@ -16,15 +16,17 @@ I am Kai Riedmiller. By training, I am a theoretical chemist with a focus on mac
 ## Education
 
 PhD engineering sciences, University Heidelberg
-> Title: **Predicting Hydrogen Atom Transfer in Collagen**  
-> I worked on creating a machine learned model for predicting reactivity based on the 3D structure of a molecular system.
+> Title: [**Predicting Hydrogen Atom Transfer in Collagen**  ](https://doi.org/10.26434/chemrxiv-2024-ctdm3)  
+> I worked on creating a machine learned model for predicting chemical reactivity based on the 3D structure of a molecular system.
 
 Master of Science, Chemistry, University Konstanz
+>Title: **Machine learning methods for characterization of mineralization processes**  
+> Classification of small molecular clusters forming crystallization seeds using autoencoders.
 
-Currently PhD candidate at the Heidelberg Institute for Theoretical Studies, HITS, in Heidelberg in the Molecular Biomechanics Group of Prof. Frauke Gräter.  
+I work as a PostDoc at the Heidelberg Institute for Theoretical Studies, HITS, in Heidelberg in the Molecular Biomechanics Group of Prof. Frauke Gräter.  
 
 ## Tools
-Tools I learned during my studies, or by my self:
+Tools I learned during my studies, or by myself:
 - Python, for
 	- Workflow automation
 	- Machine learning
